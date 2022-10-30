@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://aymane-elmadidi.vercel.app/](https://aymane-elmadidi.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React/Node**
 
 - 📫 How to reach me **aymanelmadidi@gmail.com**
 
