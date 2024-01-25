@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymanemadidi&label=Profile%20views&color=0e75b6&style=flat" alt="aymanemadidi" /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://aymane-elmadidi.vercel.app/](https://aymane-elmadidi.vercel.app/)
-
-- 💬 Ask me about **React/Node**
-
 - 📫 How to reach me **aymanelmadidi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
